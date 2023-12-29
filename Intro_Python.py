@@ -13,5 +13,6 @@ print('Hello world')
 print()
 print('did you see that blank line ?')
 #you can also use \n to have a blank line in the middle of line or string .
+#blank line = new line (\n)
 print('Blank line \nin the middle of a string is like this.')
 
