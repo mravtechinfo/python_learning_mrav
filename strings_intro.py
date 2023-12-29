@@ -17,3 +17,13 @@ print('hello uppercase'+' ' + first_name.upper()+' '+ last_name.upper())
 
 # combine string with +
 # custom String formatting
+
+
+
+# output = 'Hello, '  + first_name + ' ' + last_name
+#lets do the same task with other ways ie printing the output varible
+
+# output = 'Hello, {} {}'.format(first_name,last_name)
+# output = 'Hello, {0} {1}'.format(first_name,last_name)
+output = f'Hello, {first_name}{last_name}'  # This can only be done in python3 specifically
+print(output)
