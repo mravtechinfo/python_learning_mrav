@@ -12,3 +12,4 @@ print('hello lowercase'+' ' + first_name.lower()+' '+ last_name.lower())
 # upper method
 print('hello uppercase'+' ' + first_name.upper()+' '+ last_name.upper())
 
+#String basic 
