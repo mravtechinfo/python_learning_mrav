@@ -28,5 +28,7 @@ print('Year: '+str(today.year))
 birthday = input('When is your birthday (dd/mm/yyyy)? ')
 
 birthday_date = datetime.strptime(birthday, '%d/%m/%Y')
+day_before_birthday_date = datetime.strptime(birthday, '%d/%m/%Y')
 
 print('Birthday: '+str(birthday_date))
+print('Day before my Birthday: '+str(birthday_date-one_day))
