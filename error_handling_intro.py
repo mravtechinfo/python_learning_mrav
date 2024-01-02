@@ -4,3 +4,17 @@
 
 
 
+x=10
+y=0
+#print(x/y)  #ZeroDivisionError: division by zero
+print()
+try:
+    print(x/y)
+except ZeroDivisionError as e:
+    print('Not allowed to divide by zero')
+else:
+    print('Something else went wrong')
+finally:
+    print('This is our clean up code')
+print()
+
