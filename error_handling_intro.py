@@ -1,0 +1,6 @@
+# Error Handling - Error handling is when I have a problem with my code that's running, and it's not something that I'm going to be able to predict when I pushed my code out to production. The most common example of this would be a permissions issue, a database changing, a server being down, etc.
+
+# Debugging - Debugging is when I know that there's a problem with my code.That it's potentially giving me a wrong answer, it's potentially crashing, and I know that there's something that I've done incorrectly that's causing my code to go sideways. That's debugging.
+
+
+
