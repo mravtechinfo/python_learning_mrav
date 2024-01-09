@@ -59,3 +59,39 @@ print(presenters)
 # Dictionary 
 
 # When we have  to sue things with key value pairs (key,value) lile this.
+# It looks similar to JSON .
+
+person = {'first':'Christopher'}
+person['last']= 'Harrsion'
+
+print(person)
+
+print(person['first'])
+
+print(person['last'])
+
+# Lists vs Dictionary
+
+# Dictionary -
+# It has key/value pair
+# Storagr order not guranteed** (May be in furture it can give you order quote-2019)
+
+#Lists-
+# Storage order is guranteed
+# Zero base index 
+
+
+# you can make dictionary and then make a list and add that dictionary in that list also
+
+
+anubhav = {}
+
+anubhav['first']='Anubhav'
+anubhav['last']= 'Miller'
+
+information = []
+
+information.append(anubhav)
+
+print(anubhav)
+print(information)
