@@ -39,3 +39,23 @@ print(marks[1])
 
 # List -
 # Store anything of any type.
+
+
+# Common Operations on Lists
+
+print(len(names)) # len gives total number of elements in the list or length of list
+scores.insert(3,48) # can store at a particular index 
+print(names)
+print(scores)
+names.sort() # do sorting .
+scores.sort()
+print(names)
+print(scores)
+
+
+presenters =  names[0:2] # here [0:2] 0-inlcuded and 2- not included in the range
+print(presenters)
+
+# Dictionary 
+
+# When we ahev to sue things with key value pairs (key,value) lile this.
