@@ -12,7 +12,7 @@ for index  in range (0,10): # Here also 10 is not included in the range
 names = ['Anubhav','Vaibhav','Amit', 'Abhishek','Achintya','Twinkle','Aditya']
 
 index = 0
-
+# WHile loop is a entry controlled loop beacuse here the condition is checked before entring into the loop
 while index < len(names):
     print(names[index])
     # Change the condition!!
