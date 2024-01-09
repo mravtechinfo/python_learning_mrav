@@ -58,4 +58,4 @@ print(presenters)
 
 # Dictionary 
 
-# When we ahev to sue things with key value pairs (key,value) lile this.
+# When we have  to sue things with key value pairs (key,value) lile this.
