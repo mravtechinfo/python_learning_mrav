@@ -13,3 +13,11 @@ first_name_initial=get_initial(first_name,True)
 # pass parameters in same order as you have written in the functions
 
 print('Your name initial is: '+first_name_initial) 
+
+def error_logger (error_code, error_severity, log_to_db,error_message, source_module):
+    print('oh no error: ' + error_message)
+# Imagine code here that logs our error to a database or file
+first_number = 10
+second_number = 5
+if first_number > second_number:
+    error_logger (45, 1, True,'Second number greater than first','my_math_method')
