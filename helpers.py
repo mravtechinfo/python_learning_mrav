@@ -1,5 +1,6 @@
+from pip._vendor.colorama import init, Fore
 def display_message(message, is_warning=False):
     if is_warning:
-        print('Warning !')
+        print(Fore.RED + message)
     else:
-        print(message)
+        print(Fore.GREEN + message)

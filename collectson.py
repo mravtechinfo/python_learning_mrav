@@ -40,7 +40,7 @@ print(marks[1])
 # List -
 # Store anything of any type.
 
-
+# collections.py was the original name but it was making conflict when i satrted with virtual enviornmnets so i changed the name of this file 
 # Common Operations on Lists
 
 print(len(names)) # len gives total number of elements in the list or length of list

@@ -43,3 +43,6 @@
 
 # requiremets.txt
 # colorama
+
+# PRO TIP
+# To create virtual env in windows in vs code type this 'virtualenv venv'
