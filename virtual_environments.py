@@ -46,3 +46,5 @@
 
 # PRO TIP
 # To create virtual env in windows in vs code type this 'virtualenv venv'
+
+# To get out of the venv just type deactivate in the terminal
