@@ -2,6 +2,10 @@
 # You can find documentation on the Computer Vision Analyze Image method here
 # https://westus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fa
 
+
+# This code is not written by me its just sample code by the video lecture for understanding purpose
+
+
 # Use the requests library to simplify making a REST API call from Python 
 import requests
 

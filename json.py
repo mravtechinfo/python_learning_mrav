@@ -5,6 +5,8 @@
 # {"key":"subkey0" "subvalueO", "subkey]". "subvaluel", ...}
 # {"key" [listvalueO, listvalue1, listvalue2, ...]}
 
+# This code is not written by me its just sample code by the video lecture for understanding purpose
+
 import json
 
 # Create a dictionary object
